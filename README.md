@@ -2,7 +2,7 @@
 <!Doc type html>
 <htlml>
 <head.
-<Title> Jessica Carballal </title>
+<Title> Jessica Carballal </Title>
 <head>
 <body>
 <h1> I am starting a new journey by learning how to code </h1>
